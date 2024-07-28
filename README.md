@@ -7,7 +7,7 @@ If the buggy gets stuck, the gamepad starts to vibrate. <br>
 The indicator light on the hub: CYAN — on, ORANGE — brake, RED — buggy stuck.
 
 ## 42100 Liebherr R 9800 Excavator
-Control: <br>
+Controls: <br>
 ```LT```, ```LB``` — left caterpillar <br>
 ```RT```, ```RB``` — right caterpillar <br>
 ```Left joystick``` — X: Boom, Y: Arm <br>
