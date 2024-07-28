@@ -1,2 +1,2 @@
-# lego-technic
-Pybrick scripts for Lego Technic
+# LEGO Technic scripts
+Pybrick scripts for LEGO Technic
