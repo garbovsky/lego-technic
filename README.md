@@ -10,6 +10,6 @@ The indicator light on the hub: CYAN — on, ORANGE — brake, RED — buggy stu
 Controls: <br>
 `LT`, `LB` — Left caterpillar <br>
 `RT`, `RB` — Right caterpillar <br>
-`Left``, `Right` — Turntable <br>
+`Left`, `Right` — Turntable <br>
 `Left joystick` — X for Boom, Y for Arm <br>
 `Right joystick` — X for Bucket, Y for Digger
